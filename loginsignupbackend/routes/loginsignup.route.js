@@ -1,4 +1,3 @@
-const passport = require('passport');
 const config = require('../config/database');
 const express = require('express');
 const jwt = require('jsonwebtoken');
